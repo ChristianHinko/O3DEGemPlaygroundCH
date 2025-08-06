@@ -1,0 +1,18 @@
+{
+    "Amazon": {
+        "AssetProcessor": {
+            "Settings": {
+                "ScanFolder O3DEGemPlaygroundCH/Assets": {
+                    "watch": "@GEMROOT:O3DEGemPlaygroundCH@/Assets",
+                    "recursive": 1,
+                    "order": 101
+                },
+                "ScanFolder O3DEGemPlaygroundCH/Registry": {
+                    "watch": "@GEMROOT:O3DEGemPlaygroundCH@/Registry",
+                    "recursive": 1,
+                    "order": 102
+                }
+            }
+        }
+    }
+}
