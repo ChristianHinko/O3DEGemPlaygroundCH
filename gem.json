@@ -2,9 +2,9 @@
     "gem_name": "O3DEGemPlaygroundCH",
     "version": "1.0.0",
     "display_name": "O3DEGemPlaygroundCH",
-    "license": "O3DEGemPlaygroundCH",
+    "license": "",
     "license_url": "",
-    "origin": "O3DEGemPlaygroundCH",
+    "origin": "",
     "origin_url": "",
     "type": "Code",
     "summary": "",
@@ -17,7 +17,7 @@
     "platforms": [
         "iOS","Linux","Android","Windows"
     ],
-    "icon_path": "",
+    "icon_path": "preview.png",
     "requirements": "",
     "documentation_url": "",
     "dependencies": [
